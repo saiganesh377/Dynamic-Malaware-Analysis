@@ -1,5 +1,5 @@
 # Dynamic-Malaware-Analysis
-Findings and inferences of dynamic malaware analysis of a malware sample inside a virtual machine.
+Findings and inferences of dynamic malware analysis of a malware sample inside a virtual machine.
 ## Tools used:
 •	Wireshark <br />
 •	Process Monitor <br />
