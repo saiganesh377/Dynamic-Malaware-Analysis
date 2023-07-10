@@ -1,4 +1,4 @@
-# Dynamic-Malaware-Analysis
+# Dynamic-Malware-Analysis
 Findings and inferences of dynamic malware analysis of a malware sample inside a virtual machine.
 ## Tools used:
 •	Wireshark <br />
